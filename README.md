@@ -1,2 +1,2 @@
 # snake-game
-snake game
+ An interesting snake game
